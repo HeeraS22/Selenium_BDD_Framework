@@ -45,10 +45,12 @@ This repository contains a BDD framework built using [Cucumber](https://cucumber
 ## Installation
 1. Clone the repository:
    
- **git clone https://github.com/yourusername/your-bdd-framework.git**
- **cd your-bdd-framework**
+ **git clone https://github.com/<yourusername>/<your-bdd-framework>.git**
+ 
+ **cd <your-bdd-framework>**
 
 ## Install dependencies:
+
  **$ mvn clean install**
   
 [Back to top](#table-of-contents)
