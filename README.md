@@ -93,4 +93,6 @@ Create runner classes in the src/test/java/runners directory to execute your tes
 ## Reporting
 After executing the tests, reports can be found in the target/cucumber-reports directory.
 
+![HTML Report](images/Cucumber_html_report.png)
+
 [Back to top](#table-of-contents)
