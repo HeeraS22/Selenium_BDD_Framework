@@ -78,7 +78,8 @@ This repository contains a BDD framework built using [Cucumber](https://cucumber
 [Back to top](#table-of-contents)
 
 ## Project Structure
-![Screenshot](images/project structure.png)
+
+![Screenshot](images/project%20structure.png)
 
 [Back to top](#table-of-contents)
 
