@@ -56,8 +56,9 @@ This repository contains a BDD framework built using [Cucumber](https://cucumber
 ## Configuration
 1. Configure the config.properties file located in the src/test/resources directory:
 
-  browser=chrome
-  baseURL=https://rahulshettyacademy.com/seleniumPractise/#/
+  **browser=chrome**
+  
+  **baseURL=https://rahulshettyacademy.com/seleniumPractise/#/**
 
 2. Update the pom.xml file to include any additional dependencies required for your project.
 
@@ -69,12 +70,13 @@ This repository contains a BDD framework built using [Cucumber](https://cucumber
  **$ mvn test**
    
 3. To run specific tags:
+ 
  **$ mvn test -Dcucumber.options="--tags @PlaceOrder"**
    
 [Back to top](#table-of-contents)
 
 ## Project Structure
-![Structure](images/project structure.png)
+![Screenshot](images/project structure.png)
 
 [Back to top](#table-of-contents)
 
